@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModernFlatUI", "ModernFlatUI\ModernFlatUI.csproj", "{40B63C47-9E3B-4E6B-9A6A-80A910FF14CF}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ModernFloat", "ModernFloat\ModernFloat.vdproj", "{896898C2-5A0C-476D-8CFF-4180CF01DFBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40B63C47-9E3B-4E6B-9A6A-80A910FF14CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40B63C47-9E3B-4E6B-9A6A-80A910FF14CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40B63C47-9E3B-4E6B-9A6A-80A910FF14CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40B63C47-9E3B-4E6B-9A6A-80A910FF14CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{896898C2-5A0C-476D-8CFF-4180CF01DFBC}.Debug|Any CPU.ActiveCfg = Debug
+		{896898C2-5A0C-476D-8CFF-4180CF01DFBC}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2626EA9-76DB-46DD-9037-44AC41FBDF28}
+	EndGlobalSection
+EndGlobal
